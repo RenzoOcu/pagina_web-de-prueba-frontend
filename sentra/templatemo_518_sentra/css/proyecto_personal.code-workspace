@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:/xampp/htdocs/proyecto_personal"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto_personal"
+	}
+}
